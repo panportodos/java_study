@@ -11,6 +11,6 @@ public class PrintStudy {
         System.out.println(""+10+20); // 따라서 순서가 중요하다
         System.out.println(""+(10+20)); // 괄호치면 우선순위 높아짐
         // char : 2 bite 0000 0000 0000 0000{2진수} = ac00 {16진수}
-
+        System.out.println("테스트코드 작성");
     }
 }
