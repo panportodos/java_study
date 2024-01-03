@@ -5,7 +5,7 @@ public class Function01 {
     public static void main(String[] args) {
         fx3();
         System.out.println(fx1(1,2,3,4,5)); // 함수 호출
-        fx2("권기범");
+        fx2("김범수");
     }
 
     // 함수 정의

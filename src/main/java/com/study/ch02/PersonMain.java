@@ -6,11 +6,11 @@ public class PersonMain {
 
     public static void main(String[] args) {
         Person p = new Person();
-        p.name = "권기범";
-        p.age = 25;
+        p.name = "김범수";
+        p.age = 32;
 
         Person p2 = new Person();
-        p2.name = "기범";
+        p2.name = "범수";
         p2.age = 36;
 
 
@@ -22,9 +22,9 @@ public class PersonMain {
 
         StudentType s = new StudentType();
 
-        s.name = "권기범";
+        s.name = "김범수";
         s.studentYear = 4;
-        s.address = "부산 서구";
+        s.address = "부산 금정구";
 
         s.showInfo();
 

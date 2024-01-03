@@ -23,12 +23,12 @@ public class Operation06 {
         System.out.println(name == null);
         System.out.println("테스트 코드 작성");
 
-        name = "권기범";
-        String name2 = new String("권기범");
+        name = "김범수";
+        String name2 = new String("김범수");
 
 
-        System.out.println(name.equals("권기범"));
-        System.out.println(name2.equals("권기범"));
+        System.out.println(name.equals("김범수"));
+        System.out.println(name2.equals("김범수"));
 
 
 
