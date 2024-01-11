@@ -1,4 +1,4 @@
-package com.study.ch16;
+package com.study.ch16.practice;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,5 +9,6 @@ import lombok.Data;
 public class Member {
     private String name;
     private String address;
+
 
 }

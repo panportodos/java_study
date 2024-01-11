@@ -1,2 +1,15 @@
-package com.study.ch16;public class Student {
+package com.study.ch16;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class Student {
+    private String name;
+    private int age;
+
+
 }
+
+

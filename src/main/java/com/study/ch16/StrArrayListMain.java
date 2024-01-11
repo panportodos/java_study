@@ -2,7 +2,7 @@ package com.study.ch16;
 
 import java.util.ArrayList;
 
-public class StrArrayListMain {
+public class StrArrayListMain { //ArrayList를 쓰면 일일이 add, get, 등을 안만들어도 된다
     public static void main(String[] args) {
         ArrayList<String> strList = new ArrayList<>();
         strList.add("a");
